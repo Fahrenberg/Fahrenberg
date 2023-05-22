@@ -1,4 +1,4 @@
-🌱 I’m currently learning Swift/Combine, Phyton and JavaScript.
+🌱 I’m currently programming primarly for iOS Devices with Swift/SwiftUI? Using C, Python and JavaScript.
 
 
 <!---
