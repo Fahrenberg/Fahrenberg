@@ -1,4 +1,4 @@
-🌱 I’m currently programming primarly for iOS Devices with Swift/SwiftUI? Using C, Python and JavaScript.
+🌱 I’m programming primarly for iOS Devices📱 with Swift/SwiftUI. From time to time I coding 🧑‍💻 in C, Python and JavaScript, HTML, CSS.
 
 
 <!---
